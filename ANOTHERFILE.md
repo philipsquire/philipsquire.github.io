@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Look at this page"
 permalink: /anotherpage/
 ---
