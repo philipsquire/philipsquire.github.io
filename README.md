@@ -1,5 +1,8 @@
-## Philip Squire
-### IT and UX
+---
+title: Philip Squire
+---
+
+## IT and UX
 
 I am a Junior at Michigan State University studying Media and Information.
 
