@@ -1,3 +1,12 @@
 ## Philip Squire
+### IT and UX
 
-Thank you for visiting my site! As you can see this is **clearly** a work in progress, and will _only_ get better with time!
+I am a Junior at Michigan State University studying Media and Information.
+
+Below you can find my resume, and a selection of my work. To contact me, email me [here](mailto:squireph@msu.edu). Thank you for visiting my website.
+
+Resume
+
+Sample Proposal for Research
+
+Sample Competitive Analysis
