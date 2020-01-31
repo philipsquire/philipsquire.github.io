@@ -7,6 +7,6 @@ Below you can find my resume, and a selection of my work. To contact me, email m
 
 Resume
 
-Sample Proposal for Research
+[Sample Proposal for Research](https://1drv.ms/b/s!Al_Szk_F4zDNgZtsxwVaBytc_s-PMQ)
 
 Sample Competitive Analysis
