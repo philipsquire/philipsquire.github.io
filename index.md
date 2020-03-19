@@ -13,3 +13,5 @@ Below you can find my resume, and a selection of my work. To contact me, email m
 [Sample Proposal for Research](https://1drv.ms/b/s!Al_Szk_F4zDNgZtsxwVaBytc_s-PMQ)
 
 [Sample Persona](https://1drv.ms/w/s!Al_Szk_F4zDNix29PJm4Gyc-Xszl?e=jyAgTA)
+
+[Sample Cognitive Walkthrough and Heuristic Evaluation that I worked on](https://1drv.ms/b/s!Al_Szk_F4zDNgZtyBGqATu4ZkiXo1g)
