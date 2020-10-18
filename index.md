@@ -4,7 +4,7 @@ title: Philip Squire
 
 ## IT and UX
 
-I am a Junior at Michigan State University studying Media and Information.
+I am a Senior at Michigan State University studying Information Science, graduating May 2020.
 
 Below you can find my resume, and a selection of my work. To contact me, email me [here](mailto:squireph@msu.edu). Thank you for visiting my website.
 
@@ -12,6 +12,6 @@ Below you can find my resume, and a selection of my work. To contact me, email m
 
 [Sample Proposal for Research](https://1drv.ms/b/s!Al_Szk_F4zDNgZtsxwVaBytc_s-PMQ)
 
-[Sample Persona](https://1drv.ms/w/s!Al_Szk_F4zDNix29PJm4Gyc-Xszl?e=jyAgTA)
+[Sample User Persona](https://1drv.ms/w/s!Al_Szk_F4zDNix29PJm4Gyc-Xszl?e=jyAgTA)
 
-[Sample Cognitive Walkthrough and Heuristic Evaluation that I worked on](https://1drv.ms/b/s!Al_Szk_F4zDNgZtyBGqATu4ZkiXo1g)
+[Sample Cognitive Walkthrough and Heuristic Evaluation](https://1drv.ms/b/s!Al_Szk_F4zDNgZtyBGqATu4ZkiXo1g)
