@@ -1,0 +1,110 @@
+html{
+    background-color: darkslategrey;
+}
+
+body{
+    padding: 25px;
+    background-color:floralwhite;
+    font-family: Helvetica, sans-serif;
+    color: darkslategray;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    padding-right: 25px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+}
+
+.menu_options{
+    display: flex;
+    list-style-type: none;
+}
+.menu_options li{
+    flex: auto;
+
+}
+img{
+    width: 100%;
+}
+
+p{
+    max-width: 800px;
+    margin: auto;
+}
+
+.contact{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center
+    
+}
+
+.contact li{
+    width: 100px;
+    padding: 5px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+#projects{
+    max-width: 800px;
+    margin: auto;
+}
+
+#photo {
+    max-width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.prototype-pics{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center
+    
+}
+
+.prototype-pics li{
+    width: 200px;
+    padding: 20px 10px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#sketch{
+    display: block;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: floralwhite;
+}
