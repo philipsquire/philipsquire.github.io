@@ -4,7 +4,7 @@ html{
 
 body{
     padding: 25px;
-    background-color:floralwhite;
+    background-color: white;
     font-family: Helvetica, sans-serif;
     color: darkslategray;
     max-width: 1000px;
@@ -106,5 +106,5 @@ button{
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    background-color: floralwhite;
+    background-color: white;
 }
