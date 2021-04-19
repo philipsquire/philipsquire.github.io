@@ -24,9 +24,8 @@ h3{
 
 nav{
     text-align: center;
-    padding-right: 25px;
     border-top: 2px solid black;
-    border-bottom: 2px solid black;
+    font-size: x-large;
 
 }
 
@@ -45,6 +44,7 @@ img{
 p{
     max-width: 800px;
     margin: auto;
+    font-size: medium;
 }
 
 .contact{
@@ -107,4 +107,8 @@ button{
     margin-right: auto;
     margin-top: 20px;
     background-color: white;
+}
+
+.resume_link{
+  font-size: x-large;
 }
