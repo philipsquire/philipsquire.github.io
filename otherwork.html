@@ -6,7 +6,7 @@
     <meta name="author" content="Philip Squire">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
-    <title>Philip Squire - UX and Web Dev</title>
+    <title>Philip Squire - IT Assistant</title>
 </head>
 <body>
     <header>
@@ -15,12 +15,16 @@
     </header>
     <nav>
         <ul class="menu_options">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="projects.html">Projects</a></li>
+            <li><a href="/">Home</a></li>
+            <li id="dropdown"><a href="projects.html">Projects</a>
+              <div class="dropdown-content">
+                <a href="/itassistant.html">IT Assistant</a>
+              </div>
+            </li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>  
-    <section id = "projects">
+    <section id = "project">
     <h3>Information Technology Assistant</h3>
     <h4>Overview</h4>
     <p>For this project, I was responsible for gathering participants, programming, and creating the concept fot the prototype video. The objective was to create some sort of device that would assist IT workers and evaluate how it would perform in a real world scenario.</p>
@@ -36,7 +40,7 @@
     <p>Code for the prototype can be found <a href="https://github.com/philipsquire/mi349_final/blob/master/resources/codeforita.ino" target="_blank">here</a>.</p>
     <h4>Evaluation</h4>
     <p>Due to CoVID-19, we were unable to test our project in a real-world environment. Beyond that, due to the limitations of the Arduino hardware, we were not able to implement checking for electrical failures or packet loss in any capacity. We were able to fully implement temperature and humidity detection, thanks to the device that was included with our Arduino kit.</p>
-    <button id="BackToTop" onclick="TopTheTop()">Click here to return to the top!</button>
+    <button id="BackToTop">Click here to return to the top!</button>
 </section>
 <script src="button.js"></script>
 </body>

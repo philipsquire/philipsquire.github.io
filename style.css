@@ -27,7 +27,27 @@ nav{
     text-align: center;
     border-top: 2px solid black;
     font-size: x-large;
+    overflow: hidden;
+}
 
+.dropdown-content {
+  display: none;
+  position: relative;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+#dropdown:hover .dropdown-content {
+  display: block;
 }
 
 .menu_options{
@@ -64,7 +84,7 @@ p{
 }
 
 
-#projects{
+#project{
     max-width: 800px;
     margin: auto;
 }

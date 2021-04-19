@@ -1,6 +1,6 @@
-var BackToTopButton = document.getElementById("BackToTop");
+const BackToTopButton = document.getElementById('BackToTop');
 
 BackToTopButton.addEventListener('click', function () {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-  });
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+});
