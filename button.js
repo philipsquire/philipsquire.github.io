@@ -7,5 +7,5 @@ BackToTopButton.addEventListener('click', function () {
 });
 
 ReturnToProjectsButton.addEventListener('click', function () {
-  window.location.href = "/projects/";
+  window.location.href = "https://philipsquire.github.io/projects/";
 });
